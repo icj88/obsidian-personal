@@ -1,0 +1,29 @@
+{
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ]
+}
