@@ -63,6 +63,7 @@
  - [ ] Sunscreen
  - [ ] Baby aspirin
  - [ ] Nail Clippers
+ - [ ] Hair Gel
 
 ### Odds, Ends
  - [ ] Ear plugs

@@ -28,4 +28,9 @@
 
 - [ ] PowerBI Certification
 - [ ] Python HR Datawarehouse
+- [ ] Read 4 Data Modeling/Programming/Warehousing Books
+- [ ] Finish Masters? (Maybe early [[2026 Goals]])
+
+### 🔨 Home Improvement
+- [ ] Repaint/stain Decking, Siding, inside kitchen trim
 - [ ] 

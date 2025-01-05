@@ -2,6 +2,9 @@
 Depart 2:29pm, Thursday, Jan 23. Confirmation **HLPE2E**
 Return 7:08pm, Monday, Feb 10. Confirmation **HLPE2E**
 
+Jan 24-27: Tigne
+Jan 28: La Planche
+Jan 28-31: Meribel
 ## [[Ski Trip Packing List]]
 
 ## Key Details:
