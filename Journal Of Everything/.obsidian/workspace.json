@@ -28,47 +28,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-05.md",
+                "file": "Alternate Research Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-05"
+              "title": "Alternate Research Links"
             }
           },
           {
-            "id": "f68002ed4235a1ab",
+            "id": "ad549bf6682a79cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSIT/MBA-506 Project Managment/MBA-506 Project Management.md",
+                "file": "HR Tech & Data roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MBA-506 Project Management"
+              "title": "HR Tech & Data roadmap"
             }
           },
           {
-            "id": "ccc8201e598fdb82",
+            "id": "50adfc51b817f2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSIT/MBA-506 Project Managment/MBA-506 Project Management.md",
+                "file": "When the Stars Gossip.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MBA-506 Project Management"
+              "title": "When the Stars Gossip"
+            }
+          },
+          {
+            "id": "40975fbb2a98fd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-07"
+            }
+          },
+          {
+            "id": "745706e8391bf62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Description Modernization Example.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job Description Modernization Example"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "c7dd4c689a0cefb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c70a5c2c8cba931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Description Modernization Project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job Description Modernization Project"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 264.5
   },
   "right": {
     "id": "091849fe947d2ff6",
@@ -140,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-06.md",
+                "file": "Job Description Modernization Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-06"
+              "title": "Backlinks for Job Description Modernization Project"
             }
           },
           {
@@ -186,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSIT/MBA-506 Project Managment/MBA-506 Project Management.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MBA-506 Project Management"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -198,16 +249,15 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,38 +270,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccc8201e598fdb82",
+  "active": "3c70a5c2c8cba931",
   "lastOpenFiles": [
-    "MSIT/MBA-506 Project Managment/Course Materials/All Graded Tasks Checklist.md",
-    "MSIT/MBA-506 Project Managment/MBA-506 Project Management.md",
+    "Job Description Modernization Example.md",
+    "Job Description Modernization Project.md",
+    "Job Description Modernization Technical Memo.md",
     "2025-01-07.md",
+    "Untitled 1.md",
     "2025-01-06.md",
-    "MSIT/MBA-506 Project Managment/Course Materials/Required Readings.md",
-    "When the Stars Gossip.md",
-    "HR Tech & Data roadmap.md",
+    "MSIT/MBA-506 Project Managment/Course Materials/All Graded Tasks Checklist.md",
     "HCM meeting 2025-01-06.md",
     "HCM Group Meetings Index.md",
+    "When the Stars Gossip.md",
+    "2025-01-05.md",
     "Google AI.md",
-    "Alternate Research Links.md",
+    "MSIT/MBA-506 Project Managment/Course Materials/Syllabus.md",
     "MSIT/MBA-506 Project Managment/Course Materials/Assignment Prompts.md",
     "MSIT/MBA-506 Project Managment/Course Materials/Discussion Prompts.md",
-    "MSIT/MBA-506 Project Managment/Course Materials/Syllabus.md",
+    "MSIT/MBA-506 Project Managment/Course Materials/Required Readings.md",
+    "MSIT/MBA-506 Project Managment/MBA-506 Project Management.md",
     "MSIT/MBA-506 Project Managment/Course Materials",
-    "2025-01-05.md",
-    "Ski Trip Packing List.md",
-    "MSIT/MBA-506 Project Managment/MBA-506 Syllabus.md",
     "MSIT/MBA-506 Project Managment",
     "MSIT",
-    "Syllabus.md",
-    "Sylabus.md",
+    "HR Tech & Data roadmap.md",
+    "Alternate Research Links.md",
     "community_plugins.png",
     "Ski Trip France, Kyrgyzstan, 2025.md",
-    "Job-Description AI Revisions.md",
-    "Untitled.md",
+    "Ski Trip Packing List.md",
     "2025-01-04.md",
     "2025-01-03.md",
     "Templates/Template, Daily note.md",
     "2025 Goals.md",
+    "House Maintenance.md",
     "Untitled.canvas",
     "Timestamps",
     "Timestamps/2025/01-January",
