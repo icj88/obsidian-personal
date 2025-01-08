@@ -1,7 +1,12 @@
 ### Week 1
 - [ ] Week 1
 	- [ ] *2025-01-08*: Discussion 1
+		- [x] Initial Post
+		- [x] Response #1
+		- [ ] Response #2
 	- [ ] *2025-01-08*: Discussion 2
+		- [ ] 
+	- [x] *2024-01-08*: Quiz
 	- [ ] *2025-01-10*: Discussion 3
 	- [ ] *2025-01-12*: Assignment - Personal Journal #1
 ### Week 2
