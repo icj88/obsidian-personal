@@ -1,0 +1,1 @@
+ML Model that uses ATS data from 'posting time' to 'hiring-proposal creation'
