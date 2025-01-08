@@ -1,0 +1,14 @@
+![[Pasted image 20241203092017.png]]
+- Payroll:
+	- Skip List
+		- Temp Job Codes that will not be terminated after 3-months
+		- PACE (Professional and Continuing Education) previously CDE, significant skip-list individuals
+		- Employee ID, Record Number, Name
+		- Supplementing with additional info for easier management, i.e. job codes, departments
+- Single-Sign On
+	- Enabled 2-weeks prior to hire start date
+	- Requires creation of net-id and email.
+- Ticket Review
+	- Alignment of AEOO Hire and Term reports
+	- I9 processing for Audit
+	- 
