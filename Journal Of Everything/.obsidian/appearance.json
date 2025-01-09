@@ -1,5 +1,9 @@
 {
   "accentColor": "#fd4f30",
   "baseFontSizeAction": true,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
+  "baseFontSize": 21
 }
