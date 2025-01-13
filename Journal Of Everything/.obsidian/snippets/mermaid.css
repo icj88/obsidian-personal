@@ -1,0 +1,42 @@
+/* ER Diagram styling for Dark mode */
+.theme-dark .mermaid {
+    --color-red: #933;
+    --color-orange: #963;
+    --color-yellow: #993;
+    --color-green: #393;
+    --color-cyan: #399;
+    --color-blue: #339;
+    --color-purple: #639;
+}
+
+/* Style entity boxes */
+.theme-dark .mermaid .entityBox {
+    fill: #2d2d2d !important;
+    stroke: #666 !important;
+}
+
+/* Style entity text */
+.theme-dark .mermaid .entityLabel {
+    fill: #ddd !important;
+}
+
+/* Style attribute text */
+.theme-dark .mermaid .attributeBoxOdd,
+.theme-dark .mermaid .attributeBoxEven {
+    fill: #333 !important;
+}
+
+/* Style attribute labels */
+.theme-dark .mermaid .attributeLabel {
+    fill: #ccc !important;
+}
+
+/* Style relationship lines */
+.theme-dark .mermaid .relationshipLine {
+    stroke: #666 !important;
+}
+
+/* Style relationship labels */
+.theme-dark .mermaid .relationshipLabel {
+    fill: #ccc !important;
+}
