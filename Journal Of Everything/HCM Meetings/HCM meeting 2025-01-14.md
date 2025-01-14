@@ -1,0 +1,5 @@
+- Discussion regarding student employee record end dates
+- ABBR (Annual Base Benefits Rate) Calculations
+- Complexity regarding New Employee Orientation query for individuals who change FTE or get additional jobs that make the benefits eligible. 
+- ACA meeting next Tuesday, 2025-01-21
+-

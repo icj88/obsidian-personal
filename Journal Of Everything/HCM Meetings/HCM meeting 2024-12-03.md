@@ -1,4 +1,4 @@
-![[Pasted image 20241203092017.png]]
+
 - Payroll:
 	- Skip List
 		- Temp Job Codes that will not be terminated after 3-months

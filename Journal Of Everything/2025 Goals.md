@@ -27,8 +27,14 @@
 ### 💼 Professional
 
 - [ ] PowerBI Certification
-- [ ] Python HR Datawarehouse
+	- [ ] [MSFT Exam PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
+	- [ ]  
+- [ ] Python [[Data Warehouse]]
 - [ ] Read 4 Data Modeling/Programming/Warehousing Books
+- [ ] Salary Bands and Grades implementation
+- [ ] Salary.com data implementation
+- [ ] Benefits Process Updates
+- [ ] 
 - [ ] Finish Masters? (Maybe early [[2026 Goals]])
 
 ### 🔨 Home Improvement
