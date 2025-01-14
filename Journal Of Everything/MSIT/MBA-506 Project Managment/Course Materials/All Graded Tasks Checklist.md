@@ -6,13 +6,16 @@
 		- [x] Response #2
 	- [x] *2025-01-08*: Discussion 2
 		- [x] Response #1
-	- [x] *2024-01-08*: Quizx
+	- [x] *2024-01-08*: Quiz
 	- [x] *2025-01-10*: Discussion 3
 	- [x] *2025-01-12*: Assignment - Personal Journal #1
 ### Week 2
 - [ ] Week 2
 	- [ ] *2025-01-15*: Discussion
-	- [ ] *2025-01-19*: Assignment
+		- [ ] Discussion Response 1
+		- [ ] Discussion Response 2
+	- [ ] *2025-01-19*: Assignment 1: Project Charter
+	- [ ] 2025-01-19: Assignment 2: Personal Journal #2
 ### Week 3
 - [ ] Week 3
 	- [ ] *2025-01-22*: Discussion
