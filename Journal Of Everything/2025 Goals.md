@@ -1,3 +1,5 @@
+[[2025 Goals - Professional]]
+[[2025 Goals - Personal]]
 ### 🩺Diabetes Management
 
 - [ ] Maintain hA1C below 7.0
@@ -24,18 +26,7 @@
 - [ ] Track All expenses in Cashew
 - [ ] $10k to student loans
 
-### 💼 Professional
 
-- [ ] PowerBI Certification
-	- [ ] [MSFT Exam PL-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
-	- [ ]  
-- [ ] Python [[Data Warehouse]]
-- [ ] Read 4 Data Modeling/Programming/Warehousing Books
-- [ ] Salary Bands and Grades implementation
-- [ ] Salary.com data implementation
-- [ ] Benefits Process Updates
-- [ ] 
-- [ ] Finish Masters? (Maybe early [[2026 Goals]])
 
 ### 🔨 Home Improvement
 - [ ] Repaint/stain Decking, Siding, inside kitchen trim
