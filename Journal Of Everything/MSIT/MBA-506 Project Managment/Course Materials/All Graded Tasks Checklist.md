@@ -12,10 +12,12 @@
 ### Week 2
 - [ ] Week 2
 	- [ ] *2025-01-15*: Discussion
+		- [x] Initial Post
 		- [ ] Discussion Response 1
 		- [ ] Discussion Response 2
+		- [ ] Discussion Response 3
 	- [ ] *2025-01-19*: Assignment 1: Project Charter
-	- [ ] 2025-01-19: Assignment 2: Personal Journal #2
+	- [ ] *2025-01-19*: Assignment 2: Personal Journal #2
 ### Week 3
 - [ ] Week 3
 	- [ ] *2025-01-22*: Discussion
