@@ -1,4 +1,4 @@
-# Week 1: Overview & Resources
+		# Week 1: Overview & Resources
 
 ## Introduction and Foundational Principles
 This week we’ll work on establishing a foundation for the modules to come. Our focus will be to align on some core definitions for the ‘hard skills’ of project management and establish a shared vocabulary that is present throughout the real-world project management community of practice. We’ll also learn what a project is, and what it isn’t. Finally, we’ll look at the ‘soft skills’ that contribute to a project manager’s effectiveness.
