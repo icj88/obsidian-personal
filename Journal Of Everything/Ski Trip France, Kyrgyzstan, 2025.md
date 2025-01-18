@@ -9,7 +9,7 @@ Jan 28-31: Meribel
 
 ## Key Details:
 
-
+     
 ## TODO:
  - [ ] Wax Skis
  - [ ] Fix Ski poles
@@ -17,7 +17,7 @@ Jan 28-31: Meribel
  - [ ] Update Credit Card Travel Plans
 	 - [ ] Check International usage Fees
  - [ ] Get $500 USD out of bank
- - [ ] Pickup Fleece [Thuja](https://thujavt.com/) ([gm](https://maps.app.goo.gl/Hx9XLQ9WorbRqbpm8))
- - [ ] Haircut
+ - [x] Pickup Fleece [Thuja](https://thujavt.com/) ([gm](https://maps.app.goo.gl/Hx9XLQ9WorbRqbpm8))
+ - [x] Haircut
  - [ ] Download media to Phone
- - [ ] Check with NEFCU about getting euros or kyrgyz som
+ - [x] Check with NEFCU about getting euros or kyrgyz som
