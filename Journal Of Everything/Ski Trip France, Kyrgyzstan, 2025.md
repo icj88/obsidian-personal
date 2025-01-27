@@ -12,11 +12,14 @@ Jan 28-31: Meribel
      
 ## TODO:
  - [ ] Wax Skis
- - [ ] Fix Ski poles
- - [ ] International Drivers License Renewal
- - [ ] Update Credit Card Travel Plans
-	 - [ ] Check International usage Fees
- - [ ] Get $500 USD out of bank
+	 - [x] Wax
+	 - [ ] Scrape
+	 - [ ] Brush
+ - [x] Fix Ski poles
+ - [x] International Drivers License Renewal
+ - [x] Update Credit Card Travel Plans
+	 - [x] Check International usage Fees
+ - [x] Get $500 USD out of bank
  - [x] Pickup Fleece [Thuja](https://thujavt.com/) ([gm](https://maps.app.goo.gl/Hx9XLQ9WorbRqbpm8))
  - [x] Haircut
  - [ ] Download media to Phone
