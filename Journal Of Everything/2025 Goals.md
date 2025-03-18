@@ -17,7 +17,7 @@
 - [ ] No road sodas
 ### 💤Sleep
 
-- [ ] Bed before 12:30
+- [ ] Bed before 12:00
 - [ ] Track every night's sleep
 - [ ] Create wind-down routine/habit
 
