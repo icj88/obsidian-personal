@@ -1,0 +1,18 @@
+# To Do
+- [x] Follow up with ACA group re: missing dollar amounts
+	- [x] Meet with Caitlyn Thursday
+	- [x] Check with Caitlyn about who can update the records.
+- [x] Finalize [[UG Student Researchers]] dataset
+- [ ] Draft request documents for nightly data dumps
+- [ ] New Hire turnover data for Rebecca Meyer
+- [ ] Data Request:
+	- [ ] All Employees, All Funding sources
+	- [ ] Labor Distribution Report
+- [x] PeopleAdmin Access Audit for Molly Nilan
+	- [x] Share email with the team
+- [ ] UVMSU Data Request
+	- [ ] Write compilation script
+- [ ] CUPA Webinar Payment
+- [ ] NEBPA (formerly teamsters) Discussions
+	- [ ] Kari undertaking benchmarking with CUPA data
+- [ ] 

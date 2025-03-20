@@ -11,10 +11,10 @@ Jan 28-31: Meribel
 
      
 ## TODO:
- - [ ] Wax Skis
+ - [x] Wax Skis
 	 - [x] Wax
-	 - [ ] Scrape
-	 - [ ] Brush
+	 - [x] Scrape
+	 - [x] Brush
  - [x] Fix Ski poles
  - [x] International Drivers License Renewal
  - [x] Update Credit Card Travel Plans
@@ -22,5 +22,5 @@ Jan 28-31: Meribel
  - [x] Get $500 USD out of bank
  - [x] Pickup Fleece [Thuja](https://thujavt.com/) ([gm](https://maps.app.goo.gl/Hx9XLQ9WorbRqbpm8))
  - [x] Haircut
- - [ ] Download media to Phone
+ - [x] Download media to Phone
  - [x] Check with NEFCU about getting euros or kyrgyz som

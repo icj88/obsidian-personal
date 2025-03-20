@@ -8,11 +8,11 @@ Monika Hotaling
 	- One for summary information (1094c) placed in the manifest xml. 
 - Immediate checks on IRS upload
 - ~week for accept/reject officially
-	- Errors typically come from discrepancies betwen SSN office for household information. 
+	- Errors typically come from discrepancies between SSN office for household information. 
 ## Population
-1. Anybody that has received bcbs at at any point. includes employees, former employees, and sometiimes non-employees
+1. Anybody that has received bcbs at at any point. includes employees, former employees, and sometimes non-employees
 2. Anybody that qualified during the 12 or 11 month look back period. 
-	1. Discrepancy between people recieving letters and those that qualify. 
+	1. Discrepancy between people receiving letters and those that qualify. 
 		1. Kiki's benefit team tracks these people in excel spreadsheet. TODO:
 
 Benefits Workscenter -> ACA Reports & IRS Forms
@@ -20,7 +20,7 @@ Benefits Workscenter -> ACA Reports & IRS Forms
 		 the data set with the PS forms containing data
 		Presents the data holding all form data
 		Note the effective update date for the creation of the additional row
-		The process status shows how the form was cretead/status
+		The process status shows how the form was created/status
 		1 series data shows who was offered insurance and why.
 		Employee Monthly amounts shows the lowest cost option
 			COMMON PLACE FOR CORRECTIONS
@@ -34,5 +34,15 @@ Benefits Workscenter -> ACA Reports & IRS Forms
 	ACA Employer Transmittal Data
 		used for manifest summary data
 	Transmission History provides info transmission data
-	Transmission Errors provides erros on individu
+	Transmission Errors provides errors on individual rows
 1095c% for the public 
+
+## Review of supplied dataset
+UVM 1095c 
+Dependents are not 00 or blank
+Benenfit census date as the book of truth but doesn't contain the dpendent information
+	Run Jan 31, Jul, Dec 31 for medical election data.
+Compare offer letter cost to lowest cost option.
+Check ACA FT Elig against letter sent list
+
+Benefit program A01, B01, C01, etc - UVM elig A, B, C etc
