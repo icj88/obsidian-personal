@@ -6,7 +6,7 @@
 	- [ ] Does the requestor have authority for the request?
 	- [ ] Is the request satisfied using the standard template?
 - [ ] Provide initial follow-up to business partner or requestor (if received directly)
-- [ ] Create Entry in Obsidian Union Data Request Index
+- [ ] Create Entry in Obsidian [[Union Data Request Index]]
 - [ ] Determine data sources (PeopleSoft, PeopleAdmin, Payroll, or others)
 - [ ] Customize main.R script in union_data_requests R Project
 - [ ] Pull Data
