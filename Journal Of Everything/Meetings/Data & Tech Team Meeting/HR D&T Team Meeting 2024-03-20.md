@@ -13,11 +13,10 @@ Job Codes
 - [ ] Salary Band Analysis 
 	- [ ] Job Codes for SU?
 	- [ ] Meeting with Kari
-		- [ ] Invite Caroline and Rafae
-		- [ ] Include SU? 
-		- [ ] Level of detail
-	- [ ] 
-- [ ] One time dump BCBS active enrollee dump
+		- [x] Invite Caroline and Rafae
+		- [x] Include SU? 
+		- [x] Level of detail
+- [x] One time dump BCBS active enrollee dump
 - [ ] Get access to the UVM Cares sharepoint folder
 - [ ] Check out the Supervisor data dump - Students included?
 # To Do (Team)
