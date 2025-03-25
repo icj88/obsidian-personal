@@ -1,3 +1,4 @@
+[[Salary Structure Development Index]]
 # **Understanding the Current State**
 - What compensation data do we currently have for each job family, sub-family, career type, and level?
 	-  Hourly Rate,
@@ -8,7 +9,7 @@
 	- CUPA Higher education benchmarks per job
 	- Access to salary.com benchmarks, but not systematically mapped
 	- SOC BLS Burlington, Vermont, US National Data
-- How do our current salaries compare to market rates for similar positions?
+- How do our current salaries  compare to market rates for similar positions?
 	- #TODO: Build a dynamic dashboard for compiling, visualizing, displaying aggregated and individualized  benchmarks.
 - What internal pay equity issues exist today that we should address?
 	- #TODO Run internal equity analyses for cpd attributes and departments (others?)

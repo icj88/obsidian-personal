@@ -42,7 +42,9 @@
 		- [ ] Determine data mapping requirements
 		- [ ] Set validation points and requirements
 		- [ ] Timeline for data refresh
-- [ ] Salary Grades and Bands Development.
+- [ ] Salary Structure Development
+	- [[Salary Structure Development Index]] 
+	- [[Salary Structure Development and Analysis Plan]]
 	- [ ] Determine success metrics...
 		- [ ] Meet with Kari to determine goals/outcomes
 	- [ ] Determine data benchmark sources
