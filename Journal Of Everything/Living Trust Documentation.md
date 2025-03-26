@@ -6,10 +6,10 @@ Successor Trustees: **Eric D Johnson** and **Linda Johnson**
 [[Asset Transfer]]
 
 # To Do
-- [ ] Verify that Living Trust was officially signed and notarized
-- [ ] Determine location of original documents (Safety Deposit Box, with lawyer (?))
+- [x] Verify that Living Trust was officially signed and notarized
+- [x] Determine location of original documents (Safety Deposit Box, with lawyer (?))
 - [ ] Verify transfer of Assets
-	- [ ] Property titles under the Living Trust name (Town of Westford)
+	- [x] Property titles under the Living Trust name (Town of Westford)
 	- [ ] Vanguard IRA Beneficiaries (E, L)
 	- [ ] ***Optional***: Compushare Stocks (E, L)
 		- [ ] Transfer to Vanguard(?)
