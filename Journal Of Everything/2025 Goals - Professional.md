@@ -33,7 +33,7 @@
 - [ ] Implement Job Classification codes: SOC, CUPA by OIRA Snapshot Date
 	- [ ] Update SOC Table in PS
 	- [ ] X-Walk SOC values from CUPA
-- [ ] Salary.com implementation
+- [ ] [[Salary.com implementation]]
 	- [ ] Determine project details
 		- [ ] Purpose/goal... What exactly is this doing?
 		- [ ] Justification... Why are we doing it? Alignment with institution strategy/needs
@@ -43,8 +43,8 @@
 		- [ ] Set validation points and requirements
 		- [ ] Timeline for data refresh
 - [ ] Salary Structure Development
-	- [[Salary Structure Development Index]] 
-	- [[Salary Structure Development and Analysis Plan]]
+	- [[Salary Structure Dev Index]] 
+	- [[Salary Structure Dev and Analysis Plan]]
 	- [ ] Determine success metrics...
 		- [ ] Meet with Kari to determine goals/outcomes
 	- [ ] Determine data benchmark sources

@@ -1,8 +1,8 @@
-[[Salary Structure Development Index#Meetings|Salary Structure Dev Index - Meetings]]
+[[Salary Structure Dev Index#Meetings|Salary Structure Dev Index - Meetings]]
 # Goal
 Initiation meeting with key internal stakeholders. Catch up on status of finish-to-start dependencies.  
 
-See  [[Salary Structure Development and Analysis Plan]]
+See  [[Salary Structure Dev and Analysis Plan]]
 # Meeting Invite
 
 >Hi Kari,

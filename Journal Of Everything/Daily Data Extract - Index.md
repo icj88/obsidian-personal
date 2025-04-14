@@ -6,6 +6,7 @@ The Daily Data Extract will automate and centralize a data extraction from the P
 [[Daily Data Extract - Requirements - Use Cases]]
 [[Daily Data Dump - Requirements - User Stories]]
 
+[[Meeting about Data Needs 2025-03-31]]
 # General Thoughts
 
 - *Data Sources*: We primarily use the PeopleSoft HCM database.
@@ -30,3 +31,4 @@ The Daily Data Extract will automate and centralize a data extraction from the P
 	- xlsx format not easy for handling multiple files. 
 	- Blackbox reporting also has no documentation 
 	- Use of outdated query results by end HR users creating contradictory information
+	

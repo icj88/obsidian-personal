@@ -1,4 +1,7 @@
-[[Salary Structure Development and Analysis Plan]]
+[[Salary Structure Dev and Analysis Plan]]
 [[SOC Code/IPEDS Code update]]
 [[Data Warehouse]]
 [[Salary Wage Visualization]]
+[[Span of Control - Supervisor Hierarchy - Subordinate Counts]]
+
+[[FTE by Dept, Unit, Student and HR Rep]]

@@ -1,4 +1,4 @@
-[[Salary Structure Development Index]]
+[[Salary Structure Dev Index]]
 # **Understanding the Current State**
 - What compensation data do we currently have for each job family, sub-family, career type, and level?
 	-  Hourly Rate,

@@ -23,4 +23,11 @@ Each H1 Category represents a single Entity
 ### Unique Identifiers
 - Employee ID
 - Position Number
+### Supervisor Data
+- Supervisor Position Number
+- Supervisor Employee ID
+### Job Classifiers
+- Term
+- Employee Class
+- Job Code
 - 

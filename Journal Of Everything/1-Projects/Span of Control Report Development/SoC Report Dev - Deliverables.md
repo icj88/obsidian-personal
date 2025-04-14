@@ -1,0 +1,24 @@
+- [x] Graph Network Model covering all employees
+	- Bridge Supervisor linkages by Posn and by ID
+	- Transparent and customizable model
+	- Easy and fast to refresh
+	- Easy to extend
+	- Implemented with NetworkX Python package
+- [ ] Summary Xlsx Workbook
+	- [ ] Raw Data as imported to graph script
+	- [x] Semi summarized data by employee/supervisor
+	- [ ] Fully summarized tables (pivot or pandas .agg tables)
+		- Color cells based on min/max range
+		- See [[SoC Report Dev - Analysis Groupings]] 
+- [ ] PowerBI Dashboard
+	- [ ] Histogram that counts supervisor by direct report bin
+	- [ ] Color based on direct report subordinate or supervisor attributes
+	- [ ] Allow selection of aggregation types, levels, etc via on-dashboard toggles.
+	- [ ] Provide table of summary information below histogram
+- [ ] Data Cleanup
+	- [ ] Fix broken hierarchies 
+		- Depth from President == -1
+	- [ ] Compare Supervisors identified to CPD Career Stream 
+		- expect most to be MG
+	- [ ] Compare number of direct reports to the level of the  Career Stream
+		- Use correlation analysis to find outliers. Consider adding total funding to analysis

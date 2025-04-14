@@ -49,7 +49,7 @@ content = "<div>The HR Analyst plays a crucial role in providing analytical, dat
 ```
 
 ##### Example output:
-[[Job  Desc Modernization Formatted Example]]
+[[JDM - Formatted Example]]
 ```
 === Gemini Response ===
 
