@@ -1,13 +1,70 @@
 .
 |-- Journal Of Everything
+|   |-- 1-Projects
+|   |   |-- 1-Project Index.md
+|   |   |-- CompEnterprise Initialization
+|   |   |   |-- SalCom CE - Technical Meeting 2025-04-01.md
+|   |   |   `-- SalCom CompEnterprise - Project (Index).md
+|   |   |-- Datamart Development
+|   |   |   `-- HR Datamart Dev - Project (Index).md
+|   |   |-- Job-Desc-Modernization
+|   |   |   |-- JDM - AI Presentation.md
+|   |   |   |-- JDM - Example.md
+|   |   |   |-- JDM - Formatted Example.md
+|   |   |   |-- JDM - Project (Index).md
+|   |   |   `-- JDM - Technical Memo.md
+|   |   |-- SOC CUPA PeopleSoft Values
+|   |   |   |-- SOC CUPA PS - PeopleSoft Approach.md
+|   |   |   `-- SOC CUPA PS - Project Index.md
+|   |   |-- SU Job Code Assignment
+|   |   |   `-- SU JC Update - Project (Index).md
+|   |   `-- Span of Control Report Development
+|   |       |-- SoC Report Dev - Deliverables.md
+|   |       |-- SoC Report Dev - Metric Definitions.md
+|   |       `-- SoC Report Dev - Project (Index).md
 |   |-- 1095c ACA Dependents and Domestic Partners.md
+|   |-- 2-Areas
+|   |   |-- 1-Areas Index.md
+|   |   `-- HR Data & Reporting
+|   |       |-- Benefits
+|   |       |   `-- Benefits Area.md
+|   |       |-- Compensation Classification
+|   |       |   `-- Compensation Classification Area.md
+|   |       `-- Union Relations
+|   |           `-- Union Data Requests
+|   |               |-- Active Requests
+|   |               |-- Completed Requests
+|   |               |   |-- Union Data Request - SU - OPSGs LCOM - 2025-03-12.md
+|   |               |   `-- Union Data Request - UA - Executive Admins - 2025-02-27.md
+|   |               |-- Union Data Request Index.md
+|   |               `-- Union Data Request Notes.md
 |   |-- 2025 Goals - Professional.md
 |   |-- 2025 Goals.md
+|   |-- 3-Resources
+|   |   |-- 1-Resources Index.md
+|   |   |-- Excel Macro - WS Protection with AutoFilter and Sort.md
+|   |   |-- Graph Network Analysis Resource.md
+|   |   `-- Templates
+|   |       |-- Project Index Template.md
+|   |       |-- Template, Daily note.md
+|   |       `-- Union Data Request Template.md
+|   |-- 4-Archives
+|   |   `-- 1-Archives Index.md
+|   |-- 5-Personal
+|   |   |-- Dramas
+|   |   |   |-- Blossom.md
+|   |   |   |-- Boss & Me.md
+|   |   |   |-- Fake It Till You Make It.md
+|   |   |   |-- Love Scout.md
+|   |   |   `-- TV Dramas Index.md
+|   |   |-- House Maintenance.md
+|   |   |-- Parents Taxes 2024.md
+|   |   |-- Ski Trip France, Kyrgyzstan, 2025.md
+|   |   `-- Ski Trip Packing List Template.md
 |   |-- AAP Promotion vs Transfer Identification.md
 |   |-- AAP.md
 |   |-- ACA Index.md
 |   |-- Alternate Research Links.md
-|   |-- Asset Transfer.md
 |   |-- Benefit Census Report.md
 |   |-- CUPA and CompAnalyst Compensation Data Meeting 2025-03-26.md
 |   |-- DCI Consultants Meeting 2025-03-04.md
@@ -16,26 +73,15 @@
 |   |-- Daily Data Extract Fields.md
 |   |-- Data Warehouse.md
 |   |-- DimDate.md
-|   |-- Dramas
-|   |   |-- Blossom.md
-|   |   |-- Boss & Me.md
-|   |   |-- Fake It Till You Make It.md
-|   |   |-- Love Scout.md
-|   |   `-- TV Dramas Index.md
+|   |-- FTE by Dept, Unit, Student and HR Rep.md
 |   |-- Google AI.md
-|   |-- Graph Theory Concepts.md
 |   |-- Great College to Work For Survey.md
 |   |-- HCM Overview - Workday.md
 |   |-- HR Goal Development 2025.md
 |   |-- HR Project Index.md
 |   |-- HR Score Cards.md
 |   |-- HR Tech & Data roadmap.md
-|   |-- House Maintenance.md
-|   |-- Job  Desc Modernization Formatted Example.md
-|   |-- Job Desc Modernization AI Presentation.md
-|   |-- Job Desc Modernization Example.md
-|   |-- Job Desc Modernization Project.md
-|   |-- Job Desc Modernization Technical Memo.md
+|   |-- Job Description Modernization.md
 |   |-- Living Trust Documentation.md
 |   |-- MSIT
 |   |   `-- MBA-506 Project Managment
@@ -52,12 +98,12 @@
 |   |           |-- Week 4 Materials.md
 |   |           `-- Week 5 Materials.md
 |   |-- MSIT w Data Sci Cert.md
-|   |-- Meeting Salary.com Setup 2025-04-01.md
 |   |-- Meeting about Data Needs 2025-03-31.md
 |   |-- Meetings
 |   |   |-- Data & Tech Team Meeting
 |   |   |   |-- HR D&T Team Meeting 2024-03-04.md
-|   |   |   `-- HR D&T Team Meeting 2024-03-20.md
+|   |   |   |-- HR D&T Team Meeting 2024-03-20.md
+|   |   |   `-- HR D&T Team Meeting 2024-04-09.md
 |   |   |-- HCM Meeting
 |   |   |   |-- HCM Group Meetings Index.md
 |   |   |   |-- HCM Meeting 2025-02-25.md
@@ -73,7 +119,8 @@
 |   |       |-- Weekly 1-on-1 2025-03-13.md
 |   |       |-- Weekly 1-on-1 2025-03-20.md
 |   |       |-- Weekly 1-on-1 2025-03-27.md
-|   |       `-- Weekly 1-on-1 2025-04-03.md
+|   |       |-- Weekly 1-on-1 2025-04-03.md
+|   |       `-- Weekly 1-on-1 2025-04-10.md
 |   |-- Operations
 |   |   `-- 1095c Forms
 |   |       |-- 1095c ACA Project Index.md
@@ -98,25 +145,15 @@
 |   |-- Salary Structure Dev and Analysis Plan.md
 |   |-- Salary Structure Development Reconnect 2025-03-24.md
 |   |-- Salary Wage Visualization.md
-|   |-- Salary.com implementation.md
 |   |-- Setup Python Environment.md
-|   |-- Ski Trip France, Kyrgyzstan, 2025.md
 |   |-- Ski Trip Packing List.md
 |   |-- Span of Control - Supervisor Hierarchy - Subordinate Counts.md
 |   |-- TSG Project Documentation.md
-|   |-- Taxes 2024.md
-|   |-- Templates
-|   |   |-- Ski Trip Packing List Template.md
-|   |   |-- Template, Daily note.md
-|   |   `-- Union Data Request Template.md
 |   |-- To Do 2025-02-13.md
 |   |-- UG Student Researchers.md
 |   |-- UVM Cares New Medical Enrollees.md
-|   |-- Union Data Request - SU - Lab Research Techs Consulting Archeology Program - 2025-03-03.md
-|   |-- Union Data Request - SU - Lab Research Techs, Academic Svs Pro - 2025-03-31.md
-|   |-- Union Data Request - SU - OPSGs LCOM - 2025-03-12.md
-|   |-- Union Data Request - UA - Executive Admins - 2025-02-27.md
-|   |-- Union Data Request Index.md
+|   |-- Untitled.md
+|   |-- _Daily-Notes
 |   |-- community_plugins.png
 |   `-- images
 |       |-- Pasted image 20250110112900.png
@@ -128,4 +165,4 @@
 |-- folder_structure.txt
 `-- obsidian_file_structure.txt
 
-15 directories, 113 files
+34 directories, 131 files

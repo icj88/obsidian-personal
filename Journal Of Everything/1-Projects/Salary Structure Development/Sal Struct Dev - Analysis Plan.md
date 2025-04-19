@@ -38,8 +38,8 @@
 		- enables pay increases without promotion
 - Should we use different band widths for different career types or levels?
 - How many distinct salary bands do we need across our structure?
-	- [[Salary Structure Complexity Analysis]]
-	- [[Salary Structure Clustering Analysis]]
+	- [[Sal Struct Dev - Complexity Analysis]]
+	- [[Sal Struct Dev - Clustering Analysis]]
 # **Implementation**
 - What is our budget for implementing the new structure?
 - Should we phase in the implementation or do it all at once?

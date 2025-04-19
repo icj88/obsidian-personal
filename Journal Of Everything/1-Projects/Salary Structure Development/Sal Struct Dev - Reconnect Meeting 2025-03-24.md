@@ -2,7 +2,7 @@
 # Goal
 Initiation meeting with key internal stakeholders. Catch up on status of finish-to-start dependencies.  
 
-See  [[Salary Structure Dev and Analysis Plan]]
+See  [[Sal Struct Dev - Analysis Plan]]
 # Meeting Invite
 
 >Hi Kari,

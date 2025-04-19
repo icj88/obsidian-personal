@@ -1,4 +1,4 @@
-[[Salary Structure Dev and Analysis Plan]]
+[[Sal Struct Dev - Analysis Plan]]
 [[SOC Code/IPEDS Code update]]
 [[Data Warehouse]]
 [[Salary Wage Visualization]]

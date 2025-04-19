@@ -16,7 +16,7 @@ modification date: Thursday 10th April 2025 11:02:20
 Create a daily or weekly datadump to a standalone database schema for reporting and trend analysis.
 ## Key Documents
 [WareHouse for HR.docx](https://uvmoffice-my.sharepoint.com/:w:/r/personal/sskalka_uvm_edu/Documents/WareHouse%20for%20HR.docx?d=web3080bf47ab47e0ab812bbc8976139b&csf=1&web=1&e=KhQhYQ)- Note document for ESG-HR collaboration
-
+[[HR Datamart Dev - Pain Points]] - Problems to be solved
 ## Project Timeline
 
 - [x] 2025-04-01: [Footprint ticket](https://footprints.uvm.edu) (11552) created 

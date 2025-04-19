@@ -1,3 +1,4 @@
+Meeting with Allison Knew to discuss use and processes around Salary.com CompAnalyst
 # CompAnalyst
 
 Comp Analyst Market Data

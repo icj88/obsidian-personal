@@ -44,7 +44,7 @@
 		- [ ] Timeline for data refresh
 - [ ] Salary Structure Development
 	- [[Salary Structure Dev Index]] 
-	- [[Salary Structure Dev and Analysis Plan]]
+	- [[Sal Struct Dev - Analysis Plan]]
 	- [ ] Determine success metrics...
 		- [ ] Meet with Kari to determine goals/outcomes
 	- [ ] Determine data benchmark sources

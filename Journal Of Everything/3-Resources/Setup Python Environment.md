@@ -1,4 +1,5 @@
 # Set up a custom python penv environment
+#python #spyder
 ## Setup on Kali
 1. Navigate to `~/Environments
 2. Run ` python3 -m venv project_name`

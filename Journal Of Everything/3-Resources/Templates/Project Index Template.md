@@ -14,6 +14,16 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 - **Project Directory**:  [Supervisor_Reports](file:////C:/Users/ijohnson/OneDrive%20-%20University%20of%20Vermont/Documents/projects/supervisor_reports) 
 ## Project Purpose
 AKA Project Vision Statement and Outline of Scope
+
+## Project Dependents and Dependencies
+### Dependencies 
+This project depends on the following projects:
+- 
+
+### Dependents
+The following projects depend on this project:
+- 
+
 ## Key Documents
 [[Project Index Template]] - Template file for this template.
 

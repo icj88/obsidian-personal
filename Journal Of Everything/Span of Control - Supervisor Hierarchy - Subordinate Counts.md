@@ -4,14 +4,9 @@
 Implemented in python via NetworkX
 Employee Node, supervisor-subordinate Edges
 Node Data derived from primary job attributes
-
-
 ### Needed Cleanup
 NPC Employees as supervisors
-
-Orphaned Postion Number
-
-
+Orphaned Position Number
 ### How These Metrics Help Decision-Making
 
 When presenting these metrics to non-technical stakeholders, you might explain:

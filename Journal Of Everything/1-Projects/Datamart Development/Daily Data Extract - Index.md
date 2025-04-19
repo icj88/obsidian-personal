@@ -2,8 +2,8 @@ The Daily Data Extract will automate and centralize a data extraction from the P
 
 
 
-[[Daily Data Extract Fields]]
-[[Daily Data Extract - Requirements - Use Cases]]
+[[HR Datamart Dev - Fields]]
+[[HR Datamart Dev - Requirements - Use Cases]]
 [[Daily Data Dump - Requirements - User Stories]]
 
 [[Meeting about Data Needs 2025-03-31]]

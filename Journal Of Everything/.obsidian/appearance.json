@@ -1,10 +1,14 @@
 {
   "accentColor": "#ff1493",
   "baseFontSizeAction": true,
-  "cssTheme": "Things",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "mermaid"
+    "AnuPpuccin_extended_colorshemes"
   ],
   "baseFontSize": 17,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Overpass",
+  "textFontFamily": "Rubik",
+  "showViewHeader": true,
+  "showRibbon": true
 }
