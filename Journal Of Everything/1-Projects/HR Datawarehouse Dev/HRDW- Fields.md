@@ -1,4 +1,4 @@
-Fields for the [[Daily Data Extract - Index]]
+Fields for the [[HRDW - Index]]
 Each H1 Category represents a single Entity
 # People/Employee
 ## Fields

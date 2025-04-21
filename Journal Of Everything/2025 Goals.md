@@ -3,7 +3,7 @@
 ### 🩺Diabetes Management
 
 - [ ] Maintain hA1C below 7.0
-	- [ ] Q1 hA1C
+	- [x] Q1 hA1C
 	- [ ] Q2 hA1C
 	- [ ] Q3 hA1C
 	- [ ] Q4 hA1C

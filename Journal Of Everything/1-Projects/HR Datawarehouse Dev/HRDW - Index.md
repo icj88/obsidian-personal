@@ -1,9 +1,7 @@
 The Daily Data Extract will automate and centralize a data extraction from the PeopleSoft system  to the shared network drive. These datasets aggregated by entity
 
-
-
-[[HR Datamart Dev - Fields]]
-[[HR Datamart Dev - Requirements - Use Cases]]
+[[HRDW- Fields]]
+[[HRDW - Requirements - Use Cases]]
 [[Daily Data Dump - Requirements - User Stories]]
 
 [[Meeting about Data Needs 2025-03-31]]
