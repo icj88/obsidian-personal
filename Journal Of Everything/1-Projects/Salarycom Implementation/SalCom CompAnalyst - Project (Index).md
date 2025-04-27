@@ -12,14 +12,16 @@ Initialize the Salary.com Comp Enterprise and Comp Analyst tools with employee s
 [[Salcom Implementation - Pay Markets]]
 [[Salcom Implementation - Definitions]]
 [[Salcom Implementation - Questions]]
+[[Salcom Implementation - Structure]]
 ## Project Timeline
 
 - [x] 2025-04-01: [Technical Meeting ](SalCom CE - Technical Meeting 2025-04-01) with Sal.Com Tech team
-- [ ] 2025-04-14: Assemble Draft data upload
+- [x] 2025-04-14: Assemble Draft data upload
 	- [x] 2025-04-17: Employee Upload File
-	- [ ] 2025-04-17: 'Company Job' i.e. Jobcode Upload File
-	- [ ] 2025-04-18: 'Pay Ranges' i.e. Jobcode Upload File
-- [ ] next milestone
+	- [x] 2025-04-22: 'Company Job' i.e. Jobcode Upload File
+	- [x] 2025-04-22: 'Pay Ranges' i.e. Jobcode Upload File
+- [x] 2025-04-24: Upload Data to CA
+- [ ] 2025-04-30: Meet with Taylor C & Comp-Class for capabilities tour
 
 ## Project Notes
 - Meeting Notes and updates will be recorded here

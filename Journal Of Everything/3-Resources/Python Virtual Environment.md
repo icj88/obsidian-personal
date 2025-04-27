@@ -12,3 +12,4 @@
 3. Activate using `source Documents/environments/project_name/Scripts/Activate`
 4. Navigate to `Documents/projects`
 5. Launch Spyder
+## Specify python version

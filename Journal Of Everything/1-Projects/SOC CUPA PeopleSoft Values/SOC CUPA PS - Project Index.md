@@ -25,9 +25,11 @@ Integrate SOC and CUPA classification/benchmarking codes into the Peoplesoft sys
 - [x] 2025-04-11: Create formal Footprint Ticket
 - [x] 2025-04-14: Create UV_POSITION_DAT table to store position level attributes
 - [x] 2025-04-14: Create New Position Data page on Position Component for external mod/viewing
-- [ ] 2025-04-16: Debug SOC Value Update rejection
-- [ ] 2025-04-16: Assign x-walked values per position number
-- [ ] 2025-04-16: Validate with Comp-Class team
+- [x] 2025-04-16: Debug SOC Value Update rejection
+- [x] 2025-04-16: Assign x-walked values per position number
+- [x] 2025-04-24: Test add/update/delete functions via GUI
+- [x] 2025-04-25: Update the footprint and request push to PROD
+- [ ] 2025-05-01: Validate with Comp-Class team
 
 
 ## Project Notes
