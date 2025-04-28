@@ -29,7 +29,8 @@ Integrate SOC and CUPA classification/benchmarking codes into the Peoplesoft sys
 - [x] 2025-04-16: Assign x-walked values per position number
 - [x] 2025-04-24: Test add/update/delete functions via GUI
 - [x] 2025-04-25: Update the footprint and request push to PROD
-- [ ] 2025-05-01: Validate with Comp-Class team
+- [ ] 2025-04-30: Push to PROD
+- [ ] 2025-05-01: Confirm updates with Comp-Class team
 
 
 ## Project Notes

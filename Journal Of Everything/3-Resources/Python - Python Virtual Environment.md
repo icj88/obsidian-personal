@@ -13,3 +13,6 @@
 4. Navigate to `Documents/projects`
 5. Launch Spyder
 ## Specify python version
+### Windows
+1. Ensure that the python version is included in environment path
+2. Run `py -3.12 -m venv new_env_name_with_version`

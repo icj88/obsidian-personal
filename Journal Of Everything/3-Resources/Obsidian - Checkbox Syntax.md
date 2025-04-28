@@ -1,5 +1,7 @@
-      
-------
+#Obsidian
+# Syntax for Custom Checkboxes in Obsidian
+Relies on *AnuPpuccin Obsidian Theme*
+
 - [ ] Unchecked
 - [x] Checked
 - [>] Rescheduled
@@ -33,5 +35,3 @@
 - [7] Speech bubble 7
 - [8] Speech bubble 8
 - [9] Speech bubble 9
-
-
