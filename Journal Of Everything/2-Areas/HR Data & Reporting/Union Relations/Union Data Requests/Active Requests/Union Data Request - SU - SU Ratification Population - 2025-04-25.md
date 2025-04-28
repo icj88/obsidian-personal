@@ -44,7 +44,9 @@
 > •	FTE
 > •	Standard Hours
 > •	Date of hire at UVM
+		- [!] Use The benefit service date
 > •	Date of hire into current position
+		- [!] Position Entry Date
 > •	(for non-exempt) Hourly wage before 4% raise
 > •	(for exempt) Annual salary before 4% raise
 > •	Indicate whether fully grant-funded, partially grant-funded, or non-grant-funded position.
@@ -55,6 +57,7 @@
 > Matthew Casey (he/him/his)
 > HR Partner
 # Datasets and Sources
+- [ ] [[PS - SELRA Report]] to determine the Allowed Information
 - [ ] UV_ACTIVE_EMPLS [General EE Info]
 - [ ] UV_HR_HERD_SURVEY2 [Education]
 - [ ] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
