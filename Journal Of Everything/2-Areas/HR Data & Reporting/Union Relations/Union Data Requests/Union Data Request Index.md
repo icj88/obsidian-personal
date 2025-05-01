@@ -5,6 +5,7 @@
 
 ## Active
 [[Union Data Request - SU - SU Ratification Population - 2025-04-25]]
+[[Union Data Request - SU - Lab Research Techs, All - 2025-04-17]]
 
 ## Completed
 [[Union Data Request - SU - OPSGs LCOM - 2025-03-12]]

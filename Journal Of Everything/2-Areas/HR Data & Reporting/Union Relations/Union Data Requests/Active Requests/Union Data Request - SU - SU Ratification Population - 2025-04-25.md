@@ -1,3 +1,4 @@
+***Payroll to supply this dataset per Rafae Khan, Penny Cayia***
 # Data Request Checklist
 - [x] Determine response Deadline (typically, 10 business days)
 - [ ] Review request 
@@ -57,12 +58,12 @@
 > Matthew Casey (he/him/his)
 > HR Partner
 # Datasets and Sources
-- [ ] [[PS - SELRA Report]] to determine the Allowed Information
-- [ ] UV_ACTIVE_EMPLS [General EE Info]
-- [ ] UV_HR_HERD_SURVEY2 [Education]
-- [ ] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
+- [x] [[PS - SELRA Report]] to determine the Allowed Information
+- [x] UV_ACTIVE_EMPLS [General EE Info]
+- [x] UV_HR_HERD_SURVEY2 [Education]
+- [x] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
 - [ ] UV_KEYREP_RPT_QRYAMNEW_PRIMPUB [Salary/Wage Band Min/Max]
-- [ ] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
+- [x] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
 - [ ] Others....
 
 # Notes
