@@ -50,3 +50,8 @@
 	- Else If *Group* == *SM1* Then *Position Entry Annual Rt*
 	- The reason we don’t use exempt/non-exempt status for this decision is because non-exempt employees used to be paid a salary
 	- Also include the “Posn Dt” field. Add a note that this is the date they entered their current position number.
+## Original Salary Justification
+- Use the report *Hiring Proposal Report for AAP* 
+- Use **Most Recent** Hiring Proposal at **Hire Complete** status per position number.
+
+

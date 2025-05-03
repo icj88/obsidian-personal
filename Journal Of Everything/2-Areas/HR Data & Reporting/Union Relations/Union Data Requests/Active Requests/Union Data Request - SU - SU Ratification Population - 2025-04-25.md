@@ -1,19 +1,22 @@
 ***Payroll to supply this dataset per Rafae Khan, Penny Cayia***
 # Data Request Checklist
 - [x] Determine response Deadline (typically, 10 business days)
-- [ ] Review request 
+- [x] Review request 
 	- [x] Are the requested fields available?
-	- [ ] Are the requested fields shareable?
+	- [x] Are the requested fields shareable?
 		- [?] **Get Feedback on Personal Email and Phone Numbers**
+		- Personal Email and phone numbers from SELRA reports
 	- [x] Does the requestor have authority for the request?
 		- **YES - Matthew Casey**
 	- [x] Is the request satisfied using the standard template?
 		- **NO**
 - [x] Provide initial follow-up to business partner or requestor (if received directly)
 - [x] Create Entry in Obsidian [[Union Data Request Index]]
-- [ ] Determine data sources (PeopleSoft, PeopleAdmin, Payroll, or others)
+- [x] Determine data sources (PeopleSoft, PeopleAdmin, Payroll, or others)
 	- **PeopleSoft, Possibly Payroll
+	- 4/14 Pre wage change dataset supplied by Penny
 	- [?] Do we need to Determine/Align Population with that used by PR, will we be supplying that?
+	- UV_PAYROLL report for grant status
 - [ ] Customize *main.R* script in *union_data_requests* R Project
 - [ ] Pull Data
 - [ ] Run R Script
@@ -68,7 +71,7 @@
 
 # Notes
 General [[Union Data Request Notes]]
-
+See Student Researcher Project for Grant Funding Details
 # Response
 Compiled via newly created *union_data_requests* R Project. 
 

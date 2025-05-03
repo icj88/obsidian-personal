@@ -7,16 +7,17 @@
 	- [x] Does the requestor have authority for the request?
 	- [x] Is the request satisfied using the standard template?
 		- **No**, this required the original, rather than the most recent, Salary Justification and HR Comments.  
+		- Request to include Dept and FSCM Rollup by Matthew
 - [x] Provide initial follow-up to business partner or requestor (if received directly)
-- [ ] Create Entry in Obsidian [[Union Data Request Index]]
-- [ ] Determine data sources (PeopleSoft, PeopleAdmin, Payroll, or others)
-- [ ] Customize main.R script in union_data_requests R Project
-- [ ] Pull Data
-- [ ] Run R Script
-- [ ] Verify data accuracy/formatting
-- [ ] Format xlsx output
-- [ ] Email CompClass for final review/revision, cc Rafae, Caroline, Requestor
-- [ ] Save updated main.R as new file in `/union_data_requests/Requests/` with the name `YYYYMMDD_RequestDescription.R`
+- [x] Create Entry in Obsidian [[Union Data Request Index]]
+- [x] Determine data sources (PeopleSoft, PeopleAdmin, Payroll, or others)
+- [x] Customize main.R script in union_data_requests R Project
+- [x] Pull Data
+- [x] Run R Script
+- [x] Verify data accuracy/formatting
+- [x] Format xlsx output
+- [x] Email CompClass for final review/revision, cc Rafae, Caroline, Requestor
+- [x] Save updated main.R as new file in `/union_data_requests/Requests/` with the name `YYYYMMDD_RequestDescription.R`
 
 # Request
 **From:** Matthew Casey [Matthew.Casey@uvm.edu](mailto:Matthew.Casey@uvm.edu)
@@ -86,6 +87,7 @@ _Southwick 200 C_
 - [x] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
 - [x] UV_KEYREP_RPT_QRYAMNEW_PRIMPUB [Salary/Wage Band Min/Max]
 - [x] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
+- [x] PA - Hiring Proposal Report for AAP [Original Salary Justification and Comments]
 - [ ] Others....
 
 # Notes
@@ -95,8 +97,8 @@ General [[Union Data Request Notes]]
 # Response
 Compiled via newly created union_data_requests R Project. 
 
-Output File Name:  *<file_name>.xlsx*
-Script File Name:    *<script_file_name>.R* 
+Output File Name:  *DataRequest_AllLabReserchTechs_20250430.xlsx*
+Script File Name:    *20250430_LabRsrchTechs_All.R* 
 
-Response Email Date:       *<YYYY-MM-DD\>*
-Response Email Subject:   *RE: <Email Subject Line\>*
+Response Email Date:       *2025-05-02*
+Response Email Subject:   *RE: Information Request: Laboratory Research Technicians in Geo and other departments/colleges*
