@@ -17,13 +17,13 @@
 	- 4/14 Pre wage change dataset supplied by Penny
 	- [?] Do we need to Determine/Align Population with that used by PR, will we be supplying that?
 	- UV_PAYROLL report for grant status
-- [ ] Customize *main.R* script in *union_data_requests* R Project
-- [ ] Pull Data
-- [ ] Run R Script
-- [ ] Verify data accuracy/formatting
-- [ ] Format xlsx output
-- [ ] Email CompClass for final review/revision, cc Rafae, Caroline, Requestor
-- [ ] Save updated main.R as new file in `/union_data_requests/Requests/` with the name `YYYYMMDD_RequestDescription.R`
+- [x] Customize *main.R* script in *union_data_requests* R Project
+- [x] Pull Data
+- [x] Run R Script
+- [x] Verify data accuracy/formatting
+- [x] Format xlsx output
+- [x] Email CompClass for final review/revision, cc Rafae, Caroline, Requestor
+- [x] Save updated main.R as new file in `/union_data_requests/Requests/` with the name `YYYYMMDD_RequestDescription.R`
 
 # Request
 
@@ -61,22 +61,22 @@
 > Matthew Casey (he/him/his)
 > HR Partner
 # Datasets and Sources
+**Contact Info:**
 - [x] [[PS - SELRA Report]] to determine the Allowed Information
+**Job/Employee Info:**
 - [x] UV_ACTIVE_EMPLS [General EE Info]
-- [x] UV_HR_HERD_SURVEY2 [Education]
-- [x] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
-- [ ] UV_KEYREP_RPT_QRYAMNEW_PRIMPUB [Salary/Wage Band Min/Max]
-- [x] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
-- [ ] Others....
-
+**Grant Funding:**
+UVM Reports -> Commitment Funding -> Labor Distribution
 # Notes
 General [[Union Data Request Notes]]
 See Student Researcher Project for Grant Funding Details
+
+**Terminated Employees must be kept in file. ** Manually pull information for these employees if necessary. 
 # Response
 Compiled via newly created *union_data_requests* R Project. 
 
-Output File Name:  *<file_name>.xlsx*
-Script File Name:    *<script_file_name>.R* 
+Output File Name:  *DataRequest_SU_All_PreRaise_20240505.xlsx*
+Script File Name:    *20250414_su_ratification.R* 
 
-Response Email Date:       *<YYYY-MM-DD\>*
-Response Email Subject:   *RE: <Email Subject Line\>*
+Response Email Date:       *2025-05-07*
+Response Email Subject:   *RE: UVMSU Contract Implementation & Payroll Coordination*
