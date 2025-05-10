@@ -19,16 +19,22 @@ Assign all staff union represented employees to the new [[CPD Jobcode system]]
 [[Project Index Template]] - Template file for this template.
 
 ## Project Timeline
-
 - [x] 2025-04-03: Notice of SU Job Inclusion
 - [x] 2025-04-11: Create Script to output
 - [x] 2025-04-14: Draft xlsx document for dept assignments
-- [ ] 2025-04-18: Collect Comp-Class Feedback on workbook attributes, protections, etc
-- [ ] 2025-04-18: Create Sharepoint project site for data collection
+- [x] 2025-05-05: Collect Comp-Class Feedback on workbook attributes, protections, etc
+- [ ] 2025-05-09: Build [Master and Upload Template]([[SU JC Update - File Mgmt]]) Files. 
+- [ ] 2025-05-12: Build Sharepoint with guidance documents. 
+- [ ] 2025-05-15: Release to Units
 
 ## Project Notes
-- Fix DEI naming in lookup tables
-- Add specific references to guidance documentation to data validation Input text fields
-- Determine single file, multi-file approach
-- Determine protection level approach
-- 
+- [x] Fix DEI naming in lookup tables
+- [ ] Add specific references to guidance documentation to data validation Input text fields
+- [x] Determine single file, multi-file approach
+- [x] Determine protection level approach
+- [ ] Create 'Upload Template' vs Master All Data Template. See [[SU JC Update - File Mgmt]]
+- [ ] Add column comments (CC)
+- [ ] Split by reporting Unit
+- [ ] Load Data From Previous Fall NU submissions
+
+**Connect about Union Codes and Job Codes**
