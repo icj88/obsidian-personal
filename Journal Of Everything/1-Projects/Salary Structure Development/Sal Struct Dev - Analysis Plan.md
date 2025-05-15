@@ -6,7 +6,7 @@
 	- FLSA Exemption Status, 
 	- Term length (9, 10, 11, 12 months), 
 	- temporary/permanent status,
-	- CUPA Higher education benchmarks per job
+	- CUPA Higher education benchmarks per job,
 	- Access to salary.com benchmarks, but not systematically mapped
 	- SOC BLS Burlington, Vermont, US National Data
 - How do our current salaries  compare to market rates for similar positions?

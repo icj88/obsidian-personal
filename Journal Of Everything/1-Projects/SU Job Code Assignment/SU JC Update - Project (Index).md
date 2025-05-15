@@ -32,9 +32,10 @@ Assign all staff union represented employees to the new [[CPD Jobcode system]]
 - [ ] Add specific references to guidance documentation to data validation Input text fields
 - [x] Determine single file, multi-file approach
 - [x] Determine protection level approach
-- [ ] Create 'Upload Template' vs Master All Data Template. See [[SU JC Update - File Mgmt]]
+- [x] Create 'Upload Template' vs Master All Data Template. See [[SU JC Update - File Mgmt]]
 - [ ] Add column comments (CC)
 - [ ] Split by reporting Unit
-- [ ] Load Data From Previous Fall NU submissions
+- [x] Load Data From Previous Fall NU submissions
 
 **Connect about Union Codes and Job Codes**
+         

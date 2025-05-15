@@ -28,7 +28,7 @@
 - [ ] UV_ACTIVE_EMPLS [General EE Info]
 - [ ] UV_HR_HERD_SURVEY2 [Education]
 - [ ] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
-- [ ] UV_KEYREP_RPT_QRYAMNEW_PRIMPUB [Salary/Wage Band Min/Max]
+- [ ] UV_ICJ_JOBCODETBL_ALL [Salary/Wage Band Min/Max]
 - [ ] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
 - [ ] Others....
 

@@ -100,7 +100,8 @@ _Operations Support Generalist_
 - [x] UV_HR_HERD_SURVEY2 [Education]
 - [x] PA - Position data - years of exp and salary justification [Years of Relevant Experience and Salary Justification]
 - [x] UV_KEYREP_RPT_QRYAMNEW_PRIMPUB [Salary/Wage Band Min/Max]
-- [ ] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
+- [x] UV_ICJ_JOBCODETBL_ALL [Updated Salary/Wage Band Min/Max]
+- [x] UV_RK_ANNUAL_RT_POSN_ENTRY [Salary/Wage at Time of position entry]
 - [ ] Others....
 
 # Notes
@@ -108,11 +109,13 @@ General [[Union Data Request Notes]]
 Need clarification on the specific units that make up UVMSU Cluster #8. 
 What the heck are the clusters? How are they defined?
 
+Modified the script to pull min/max directly from Jobcode Table dump.
+Compiled via union_data_requests R Project. 
 # Response
-Compiled via newly created union_data_requests R Project. 
 
-Output File Name:  *<file_name>.xlsx*
+
+Output File Name:  *DataRequest_AdminProfessionals_FinanceAdminPresFacAffairsEnrollMgmt.xlsx*
 Script File Name:    *20250430_AdminProfessionals_Cluster8.R* 
 
-Response Email Date:       *<YYYY-MM-DD\>*
-Response Email Subject:   *RE: <Email Subject Line\>*
+Response Email Date:       *2025-05-15*
+Response Email Subject:   *RE: Information Request>*
