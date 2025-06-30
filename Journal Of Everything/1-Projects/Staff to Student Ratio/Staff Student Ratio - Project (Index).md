@@ -36,4 +36,8 @@ The following projects depend on this project:
 
 ## Project Notes
 - Meeting Notes and updates will be recorded here
+- Build PowerBI for multiple audiences
+	- Leadership
+	- HR Reps
+	- General public
 - 

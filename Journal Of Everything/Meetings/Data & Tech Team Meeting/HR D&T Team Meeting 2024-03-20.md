@@ -1,15 +1,15 @@
 
 # General Happenings
-- [ ] NEBPA (formerly teamsters) Discussions
-	- [ ] Kari undertaking benchmarking with CUPA data
-- [ ] SU Fact-Finding
-	- [ ] Finding method
+- [x] NEBPA (formerly teamsters) Discussions
+	- [x] Kari undertaking benchmarking with CUPA data
+- [x] SU Fact-Finding
+	- [x] Finding method
 Job Codes
 - SU: Will need to define Job responsibilities rather than job codes
 - HR Scorecards
 # To Do (Me)
-- [ ] Draft request documents for nightly data dumps
-- [ ] CUPA Webinar Payment
+- [x] Draft request documents for nightly data dumps
+- [x] CUPA Webinar Payment
 - [ ] Salary Band Analysis 
 	- [ ] Job Codes for SU?
 	- [ ] Meeting with Kari
@@ -17,13 +17,13 @@ Job Codes
 		- [x] Include SU? 
 		- [x] Level of detail
 - [x] One time dump BCBS active enrollee dump
-- [ ] Get access to the UVM Cares sharepoint folder
-- [ ] Check out the Supervisor data dump - Students included?
+- [x] Get access to the UVM Cares sharepoint folder
+- [x] Check out the Supervisor data dump - Students included?
 # To Do (Team)
-- [ ] New Hire turnover data for Rebecca Meyer
-- [ ] Data Request:
-	- [ ] All Employees, All Funding sources
-	- [ ] Labor Distribution Report
+- [x] New Hire turnover data for Rebecca Meyer
+- [x] Data Request:
+	- [x] All Employees, All Funding sources
+	- [x] Labor Distribution Report
 - [ ] 
 
 # Done

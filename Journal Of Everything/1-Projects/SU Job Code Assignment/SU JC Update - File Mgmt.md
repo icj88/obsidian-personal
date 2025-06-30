@@ -11,3 +11,11 @@ Split by reporting unit
 Includes assignments from last fall
 Include flags for changed titles, jobcodes, position numbers, comp amounts 
 
+
+#TODO 
+Copy Previous values to hidden columns for easier access. 
+Move Autofill to after Orange Section.
+Add How-To Guidance document
+	Get feedback from Rafae
+	
+

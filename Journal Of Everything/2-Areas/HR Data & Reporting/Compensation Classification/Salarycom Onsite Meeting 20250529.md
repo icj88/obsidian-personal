@@ -1,0 +1,25 @@
+- CUPA Matching Data
+	- Have individual will need to map to job code
+	- #TODO Analyze CUPA consistency/distributions by Job Codes
+	- #TODO Get CUPA data uploaded ASAP
+	- Will be an addendum to the existing
+- Load individual PD by posn -> disaggregate by 
+- Replace Job Code level of detail with Position Number until transition has been made.
+- AI Matching included -> inputs include job code, level, jobcode desc, (if posn, include specific working title, pd desc)
+- Communication difficulties around lack of data.
+	- Confidence indicators based on three requisite criteria: 
+		- Location
+		- Company Size
+		- Industry
+	- Double dagger signifies 1/3 criteria
+	- Single dagger signifies 2/3 criteria
+	- Requires 5 surveys minimum
+- Determination of our comparators... to be done
+- CompEd Survey #TODO Would require participation
+- #TODO Get the technical details for the PeopleSoft -> CompEnterprise
+- #TODO Investigate using AI to measure uniqueness i.e. similarly/divergence from standards job descriptions
+- 
+
+# To Ask
+- Get the survey upload template
+- 

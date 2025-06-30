@@ -8,10 +8,10 @@ Large Number of Students with multiple Primary Jobs -> Data cleanup?
 Classified/Unclassified
 
 
-- [ ] NEBPA (formerly teamsters) Discussions
-	- [ ] Kari undertaking benchmarking with CUPA data
-- [ ] SU Fact-Finding
-	- [ ] Finding method
+- [x] NEBPA (formerly teamsters) Discussions
+	- [x] Kari undertaking benchmarking with CUPA data
+- [x] SU Fact-Finding
+	- [x] Finding method
 Job Codes
 - SU: Will need to define Job responsibilities rather than job codes
 - HR Scorecards
@@ -20,11 +20,11 @@ Job Codes
 
 
 # To Do (Team)
-- [ ] New Hire turnover data for Rebecca Meyer
-- [ ] Data Request:
-	- [ ] All Employees, All Funding sources
-	- [ ] Labor Distribution Report
-- [ ] 
+- [x] New Hire turnover data for Rebecca Meyer
+- [x] Data Request:
+	- [x] All Employees, All Funding sources
+	- [x] Labor Distribution Report
+- [x] 
 
 # Done
 

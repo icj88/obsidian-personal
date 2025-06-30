@@ -1,15 +1,41 @@
+#TODO 
 
+
+403B Report to the Hospital
+	Manual to Semi-Automated report
+	Multiple report downloads, ETL
+	Data verification by comparing to the previous submission
+	Approximately every quarter
+- [ ] R Script for 403B
+- [x] Reach out to Susan for salcom ADE
+Data Glossary
+	How to slice, by employee lifecycle?
+	Full campus audience
+	Determine attributes for each definition
+	Complete by end of next week
+
+- [ ] Build HR Rep Lookup table
+- [ ] 
+	
 # General Happenings
+ATS Upgrade
+	Offer letter
+	Email Job Alerts
+Powerbi
+	July trainings
+Not doing i9 integration
+____
+WTW Audit report - Potential for check against BCBS data
 Classified/Unclassified - Defined from Job Code... used for PeopleAdmin workflows.
 	How to manage the workflows
 	Class & Comp? Don't know the workflows. 
-	Who owns the 
+	Who owns the field.
 
 
-- [x] NEBPA (formerly teamsters) Discussions
-	- [x] Kari undertaking benchmarking with CUPA data
-- [x] SU Fact-Finding
-	- [x] Finding method
+- [ ] NEBPA (formerly teamsters) Discussions
+	- [ ] Kari undertaking benchmarking with CUPA data
+- [ ] SU Fact-Finding
+	- [ ] Finding method
 Job Codes
 - SU: Will need to define Job responsibilities rather than job codes
 - HR Scorecards
@@ -18,11 +44,11 @@ Job Codes
 
 
 # To Do (Team)
-- [x] New Hire turnover data for Rebecca Meyer
-- [x] Data Request:
-	- [x] All Employees, All Funding sources
-	- [x] Labor Distribution Report
-- [x] 
+- [ ] New Hire turnover data for Rebecca Meyer
+- [ ] Data Request:
+	- [ ] All Employees, All Funding sources
+	- [ ] Labor Distribution Report
+- [ ] 
 
 # Done
 

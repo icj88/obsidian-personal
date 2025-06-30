@@ -1,7 +1,7 @@
 
 ---
-creation date: 2025-05-12 14:05
-modification date: Monday 12th May 2025 14:05:44
+creation date: 2025-06-04 14:11
+modification date: Wednesday 4th June 2025 14:11:28
 
 ---
 # Project Name
@@ -35,5 +35,6 @@ The following projects depend on this project:
 - [ ] 2025-04-03
 
 ## Project Notes
-- UV_HRS_SCREEN_xx for historical data
-- UV_HRS_SCREEN_L16 for job history. Job Code == "A" for staff, combine with FTE
+- https://uvmoffice.sharepoint.com/:x:/r/sites/PeopleSoft/Shared%20Documents/General/Data%20Governance/HR_DataGlossary.xlsx?d=w36652f221d5449f0ad85ebeb74b2704e&csf=1&web=1&e=6WoRdC
+- 
+- 

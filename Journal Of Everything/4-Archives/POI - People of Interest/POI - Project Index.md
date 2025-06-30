@@ -35,7 +35,6 @@ The following projects depend on this project:
 - [x] 2025-05-14: First draft dataset sent to Caroline
 
 ## Project Notes
-- Meeting Notes and updates will be recorded here
 - People that are not paid via UVM but are given access to system
 - Depts submit an epar for access
 	- SSN Not mandatory -> should not be included
